@@ -48,8 +48,8 @@ Throughout the project, I prioritize **clear and regular communication** to ensu
 
 If you're interested in collaborating or learning more about my work, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- **Website/Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- **Email**: uzbtube@gmail.com
+- **LinkedIn**: [MAX](https://www.linkedin.com/in/otabek-yuldashov-42196988/)
+- **Website/Portfolio**: [Telegram](https://t.me/leomaxuz)
 
 I'm always open to exciting new projects and collaborations!

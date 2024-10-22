@@ -41,8 +41,9 @@ Throughout the project, I prioritize **clear and regular communication** to ensu
 
 ## 🛠 Recent Projects
 
-- [Project 1 Name](https://github.com/username/project1): Brief description of the project (e.g., A dynamic web app built with PHP and React for managing X.)
-- [Project 2 Name](https://github.com/username/project2): Brief description of the project (e.g., A RESTful API developed using Laravel for handling Y.)
+- [MySQL Database Management](https://github.com/leomaxuz/mysql-database-management)
+- [Basic REST API using PHP and MySQL](https://github.com/leomaxuz/php-rest-api)
+- [JavaScript CRUD Application with MySQL Backend](https://github.com/leomaxuz/js-crud-app)
 
 ## 📬 Let's Connect!
 
